@@ -1,0 +1,2 @@
+Ver b1 iRead
+Code is written so that the micricintroller receoves characterd from a python script and the motor rotates to corresponding angles to bring the correct embossed braille character beneath the reading finger.Rotation for numbers and punctuation has to be added in.
